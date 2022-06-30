@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1089285859400",
+    "project_id": "typescripttest-45611",
+    "storage_bucket": "typescripttest-45611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089285859400:android:71755a66f3af340c33907d",
+        "android_client_info": {
+          "package_name": "com.typescripttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089285859400-uc6oeo85as785po6sj7k95kc33qp0krn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJj3HUjlnW6u7F0EHsVXHvf8PL95yf8mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089285859400-uc6oeo85as785po6sj7k95kc33qp0krn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089285859400-61h8lmdr1vtcfvfoc7ue81bjtndngr3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TypeScriptTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089285859400:android:5ef9627c4a7298c733907d",
+        "android_client_info": {
+          "package_name": "com.typescripttest.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089285859400-uc6oeo85as785po6sj7k95kc33qp0krn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJj3HUjlnW6u7F0EHsVXHvf8PL95yf8mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089285859400-uc6oeo85as785po6sj7k95kc33qp0krn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089285859400-61h8lmdr1vtcfvfoc7ue81bjtndngr3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TypeScriptTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
